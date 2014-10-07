@@ -1,6 +1,7 @@
 Events
 ======
 
+- Build a web server and simple twitter application, hosted by Dev Bootcamp
 - Introduction to Unity with Javascript
 - Introduction to Machine Learning with Python
 - Q&A + learn to hack!
