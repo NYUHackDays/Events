@@ -1,3 +1,10 @@
+HackDays
+======
+
+Fun facts:
+
+- Our first official HackDays on Meetup was on November 4, 2011!
+
 Events
 ======
 
