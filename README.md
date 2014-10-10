@@ -5,10 +5,22 @@ Fun facts:
 
 - Our first official HackDays on Meetup was on November 4, 2011!
 
-Events
-======
+Next Week
+=====
 
 - Build a web server and simple twitter application, hosted by Dev Bootcamp
+
+Upcoming After
+=====
+
+- Security in Web Applications
+- Memory Leaks in Code focusing on Javascript
+- Web applications in Go
+- Intermediate Unity
+
+Past Events
+======
+
 - Introduction to Unity with Javascript
 - Introduction to Machine Learning with Python
 - Q&A + learn to hack!
