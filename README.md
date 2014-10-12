@@ -1,14 +1,7 @@
-HackDays
-======
-
-Fun facts:
-
-- Our first official HackDays on Meetup was on November 4, 2011!
-
-Next Week
+HackDays: Next Week
 =====
 
-- Build a web server and simple twitter application, hosted by Dev Bootcamp
+- Name not decided, but Introduction to "Whitehat hacking"
 
 Upcoming After
 =====
@@ -21,6 +14,7 @@ Upcoming After
 Past Events
 ======
 
+- Build a web server and simple twitter application, hosted by Dev Bootcamp
 - Introduction to Unity with Javascript
 - Introduction to Machine Learning with Python
 - Q&A + learn to hack!
@@ -68,3 +62,8 @@ Past Events
 - Foursquare's Push API. PRESENTED BY: Foursquare's Zack Sheppard
 - Arduino, physical computing! PRESENTED BY: Tami Evnin of Parsons
 - Flask, a Python mini-framework. PRESENTED BY: Mike of Fiesta.cc
+
+Fun facts:
+===
+
+- Our first official HackDays on Meetup was on November 4, 2011!
