@@ -11,7 +11,7 @@ Upcoming After
 - Web applications in Go
 - Intermediate Unity
 
-Past Events
+Past Events (48 events!)
 ======
 
 - Build a web server and simple twitter application, hosted by Dev Bootcamp
