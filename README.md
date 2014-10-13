@@ -1,11 +1,12 @@
 HackDays: Next Week
 =====
 
-- Name not decided, but Introduction to "Whitehat hacking"
+- How does Cyber Security work? Hosted by Dev Bootcamp
 
 Upcoming After
 =====
 
+- Tricks to development
 - Security in Web Applications
 - Memory Leaks in Code focusing on Javascript
 - Web applications in Go
