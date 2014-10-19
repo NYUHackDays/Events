@@ -1,7 +1,6 @@
 HackDays: Next Week
 =====
 
-- 17th October: How does Cyber Security work? Hosted by Dev Bootcamp
 - 24th October: Andy Wallace
 - 31st October: No HackDays for Halloween
 
@@ -17,6 +16,7 @@ Upcoming After
 Past Events (48 events!)
 ======
 
+- How does Cyber Security work? Hosted by Dev Bootcamp
 - Build a web server and simple twitter application, hosted by Dev Bootcamp
 - Introduction to Unity with Javascript
 - Introduction to Machine Learning with Python
