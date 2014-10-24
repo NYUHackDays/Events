@@ -3,6 +3,7 @@ HackDays: Next Week
 
 - 24th October: Andy Wallace
 - 31st October: No HackDays for Halloween
+- 7th November: No HackDays for Startup Week
 
 Upcoming After
 =====
