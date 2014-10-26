@@ -1,7 +1,6 @@
 HackDays: Next Week
 =====
 
-- 24th October: Andy Wallace
 - 31st October: No HackDays for Halloween
 - 7th November: No HackDays for Startup Week
 
@@ -14,9 +13,10 @@ Upcoming After
 - Web applications in Go
 - Intermediate Unity
 
-Past Events (48 events!)
+Past Events (49 events!)
 ======
 
+- Andy Wallace on designing and hacking Doodle Defense
 - How does Cyber Security work? Hosted by Dev Bootcamp
 - Build a web server and simple twitter application, hosted by Dev Bootcamp
 - Introduction to Unity with Javascript
