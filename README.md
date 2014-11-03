@@ -3,6 +3,7 @@ HackDays: Next Week
 
 - 31st October: No HackDays for Halloween
 - 7th November: No HackDays for Startup Week
+- 14th November: HackDays with Dev Bootcamp (TBA)
 
 Upcoming After
 =====
