@@ -1,9 +1,7 @@
 HackDays: Next Week
 =====
 
-- 31st October: No HackDays for Halloween
-- 7th November: No HackDays for Startup Week
-- 14th November: HackDays with Dev Bootcamp (TBA)
+- 14th November: Programming with Duct Tape - hosted by Dev Bootcamp
 
 Upcoming After
 =====
