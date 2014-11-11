@@ -2,6 +2,10 @@ HackDays: Next Week
 =====
 
 - 14th November: Programming with Duct Tape - hosted by Dev Bootcamp
+- 21st November: Intermediate Unity
+- 28th November: Post Thanksgiving (No HackDays)
+- 5th December: Women in Computing, AfterHours, and HackDays special event
+- 12th December: Finals exams stress-free session
 
 Upcoming After
 =====
@@ -10,7 +14,6 @@ Upcoming After
 - Security in Web Applications
 - Memory Leaks in Code focusing on Javascript
 - Web applications in Go
-- Intermediate Unity
 
 Past Events (49 events!)
 ======
