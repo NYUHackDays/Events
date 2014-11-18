@@ -1,7 +1,6 @@
 HackDays: Next Week
 =====
 
-- 14th November: Programming with Duct Tape - hosted by Dev Bootcamp
 - 21st November: Intermediate Unity
 - 28th November: Post Thanksgiving (No HackDays)
 - 5th December: Women in Computing, AfterHours, and HackDays special event
@@ -18,6 +17,7 @@ Upcoming After
 Past Events (49 events!)
 ======
 
+- Programming with Duct Tape - hosted by Dev Bootcamp
 - Andy Wallace on designing and hacking Doodle Defense
 - How does Cyber Security work? Hosted by Dev Bootcamp
 - Build a web server and simple twitter application, hosted by Dev Bootcamp
