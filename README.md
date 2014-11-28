@@ -14,24 +14,24 @@ Upcoming Spring 2014
 Past Events (49 events!)
 ======
 
-- Intermediate Unity
+- [Intermediate Unity](https://github.com/NYUHackDays/Unity-II)
 - Programming with Duct Tape - hosted by Dev Bootcamp
-- Andy Wallace on designing and hacking Doodle Defense
-- How does Cyber Security work? Hosted by Dev Bootcamp
-- Build a web server and simple twitter application, hosted by Dev Bootcamp
-- Introduction to Unity with Javascript
-- Introduction to Machine Learning with Python
+- [Andy Wallace on designing and hacking Doodle Defense](https://github.com/NYUHackDays/Doodle-Defense-Hacking)
+- [How does Cyber Security work? Hosted by Dev Bootcamp](https://github.com/NYUHackDays/Cyber-Security)
+- [Build a web server and simple twitter application, hosted by Dev Bootcamp](https://github.com/NYUHackDays/WebServer-Ruby)
+- [Introduction to Unity with Javascript](https://github.com/NYUHackDays/Unity)
+- [Introduction to Machine Learning with Python](https://github.com/NYUHackDays/Machine-Learning)
 - Q&A + learn to hack!
 - CSS: Understanding the Core Concepts
-- Introduction to Node.JS
+- [Introduction to Node.JS](https://github.com/NYUHackDays/NodeJS-Introduction)
 - Introduction to AngularJS
 - Introduction to Javascript & jQuery
 - Introduction to MongoDB and Python
-- Making Web Applications with Python and Django
-- Introduction to Python
-- Introduction to HTML & CSS
+- [Making Web Applications with Python and Django](https://github.com/NYUHackDays/Django)
+- [Introduction to Python](https://github.com/NYUHackDays/Python)
+- [Introduction to HTML & CSS](https://github.com/NYUHackDays/HTMLandCSS)
 - Collaborative Hacking on Node.js Streams
-- Node.js in an embedded environment, presented by Matt Walters
+- [Node.js in an embedded environment, presented by Matt Walters](https://github.com/NYUHackDays/NodeJS-Embedded)
 - Programming with Go by Andy of Poptip
 - Building robots with Arduino & Twilio PRESENTED BY Jon of Twilio
 - TED screenings & Intro to iOS development PRESENTED BY Abhi
