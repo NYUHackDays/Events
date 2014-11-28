@@ -1,12 +1,9 @@
 HackDays: Next Week
 =====
 
-- 21st November: Intermediate Unity
-- 28th November: Post Thanksgiving (No HackDays)
-- 5th December: Women in Computing, AfterHours, and HackDays special event
-- 12th December: Finals exams stress-free session
+- 5th December: Introduction to Node.JS, and why it's useful
 
-Upcoming After
+Upcoming Spring 2014
 =====
 
 - Tricks to development
@@ -17,6 +14,7 @@ Upcoming After
 Past Events (49 events!)
 ======
 
+- Intermediate Unity
 - Programming with Duct Tape - hosted by Dev Bootcamp
 - Andy Wallace on designing and hacking Doodle Defense
 - How does Cyber Security work? Hosted by Dev Bootcamp
