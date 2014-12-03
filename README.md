@@ -1,7 +1,7 @@
 HackDays: Next Week
 =====
 
-- 5th December: Introduction to Node.JS, and why it's useful
+- 6th December: [Web App workshop, Learn how to make a very simple webapp with the New York Times API, taught by Tech@NYU 1PM-3PM](http://www.meetup.com/nyhackdays/events/219015439/)
 
 Upcoming Spring 2014
 =====
