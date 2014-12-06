@@ -1,8 +1,3 @@
-HackDays: Next Week
-=====
-
-- 6th December: [Web App workshop, Learn how to make a very simple webapp with the New York Times API, taught by Tech@NYU 1PM-3PM](http://www.meetup.com/nyhackdays/events/219015439/)
-
 Upcoming Spring 2014
 =====
 
@@ -14,6 +9,7 @@ Upcoming Spring 2014
 Past Events (49 events!)
 ======
 
+- [Web App workshop, Learn how to make a very simple webapp with the New York Times API, taught by Tech@NYU 1PM-3PM](http://www.meetup.com/nyhackdays/events/219015439/)
 - [Intermediate Unity](https://github.com/NYUHackDays/Unity-II)
 - Programming with Duct Tape - hosted by Dev Bootcamp
 - [Andy Wallace on designing and hacking Doodle Defense](https://github.com/NYUHackDays/Doodle-Defense-Hacking)
