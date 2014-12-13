@@ -1,6 +1,8 @@
 Upcoming Spring 2014
 =====
 
+- Code optimization - Strength reduction, Code Motion, etc.
+  - Helping understand how compiler makes these optimizations, and then making them yourself.
 - Tricks to development
 - Security in Web Applications
 - Memory Leaks in Code focusing on Javascript
