@@ -7,11 +7,12 @@ Upcoming Spring 2014
 - Security in Web Applications
 - Memory Leaks in Code focusing on Javascript
 - Web applications in Go
+- AngularJS, ReactJS
 
 Past Events (53 events!)
 ======
 
-- [Web App workshop, Learn how to make a very simple webapp with the New York Times API, taught by Tech@NYU 1PM-3PM](http://www.meetup.com/nyhackdays/events/219015439/)
+- [Web App workshop, Learn how to make a very simple webapp with the New York Times API, taught by Tech@NYU 1PM-3PM](https://github.com/NYUHackDays/NYTimes-Python/)
 - [Intermediate Unity](https://github.com/NYUHackDays/Unity-II)
 - Programming with Duct Tape - hosted by Dev Bootcamp
 - [Andy Wallace on designing and hacking Doodle Defense](https://github.com/NYUHackDays/Doodle-Defense-Hacking)
