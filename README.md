@@ -9,6 +9,15 @@ Upcoming Spring 2014
 - Web applications in Go
 - AngularJS, ReactJS
 
+##### Other
+
+- Web scraping
+- Compiler
+- Optimizations / refactoring
+- Python
+- Functional programming
+- Design Patterns
+
 Past Events (53 events!)
 ======
 
