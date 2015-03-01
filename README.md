@@ -1,5 +1,9 @@
-Upcoming Spring 2014
+Spring 2014
 =====
+
+- [Making Your Games Make Themselves: L-Systems](https://www.facebook.com/events/828404947195002)
+
+##### Other
 
 - Code optimization - Strength reduction, Code Motion, etc.
   - Helping understand how compiler makes these optimizations, and then making them yourself.
@@ -8,9 +12,6 @@ Upcoming Spring 2014
 - Memory Leaks in Code focusing on Javascript
 - Web applications in Go
 - AngularJS, ReactJS
-
-##### Other
-
 - Web scraping
 - Compiler
 - Optimizations / refactoring
