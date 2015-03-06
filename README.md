@@ -1,7 +1,9 @@
 Spring 2014
 =====
 
-- [Making Your Games Make Themselves: L-Systems](https://www.facebook.com/events/828404947195002)
+- Docker: 31st March/7th April/14th April
+- ReactJS: 7th April/14th April/21st April
+- Github: 28th April
 
 ##### Other
 
@@ -21,7 +23,7 @@ Spring 2014
 
 Past Events (53 events!)
 ======
-
+- [Making Your Games Make Themselves: L-Systems](https://www.facebook.com/events/828404947195002)
 - [Web App workshop, Learn how to make a very simple webapp with the New York Times API, taught by Tech@NYU 1PM-3PM](https://github.com/NYUHackDays/NYTimes-Python/)
 - [Intermediate Unity](https://github.com/NYUHackDays/Unity-II)
 - Programming with Duct Tape - hosted by Dev Bootcamp
