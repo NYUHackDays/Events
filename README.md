@@ -1,8 +1,8 @@
 Spring 2014
 =====
 
-- Docker: 31st March/7th April/14th April
-- ReactJS: 7th April/14th April/21st April
+- [Docker: 31st March](https://www.facebook.com/events/596102643860285/)
+- Making a 3D Micro Game in Unity 5 with Jason Walters: 7th April
 - Github: 28th April
 
 ##### Other
