@@ -3,7 +3,8 @@ Spring 2014
 
 - Event with Microsoft
 
-##### Other
+Fall 2014
+=====
 
 - Code optimization - Strength reduction, Code Motion, etc.
   - Helping understand how compiler makes these optimizations, and then making them yourself.
