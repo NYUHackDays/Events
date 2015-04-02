@@ -1,9 +1,7 @@
 Spring 2014
 =====
 
-- [Docker: 31st March](https://www.facebook.com/events/596102643860285/)
-- Making a 3D Micro Game in Unity 5 with Jason Walters: 7th April
-- Github: 28th April
+- Event with Microsoft
 
 ##### Other
 
@@ -21,8 +19,10 @@ Spring 2014
 - Functional programming
 - Design Patterns
 
-Past Events (53 events!)
+Past Events (55 events!)
 ======
+
+- [Docker: 31st March](https://www.facebook.com/events/596102643860285/)
 - [Making Your Games Make Themselves: L-Systems](https://www.facebook.com/events/828404947195002)
 - [Web App workshop, Learn how to make a very simple webapp with the New York Times API, taught by Tech@NYU 1PM-3PM](https://github.com/NYUHackDays/NYTimes-Python/)
 - [Intermediate Unity](https://github.com/NYUHackDays/Unity-II)
