@@ -1,9 +1,4 @@
-Spring 2014
-=====
-
-- Event with Microsoft
-
-Fall 2014
+Fall 2015
 =====
 
 - Code optimization - Strength reduction, Code Motion, etc.
@@ -23,7 +18,8 @@ Fall 2014
 Past Events (55 events!)
 ======
 
-- [Docker: 31st March](https://www.facebook.com/events/596102643860285/)
+- [HackDays: Making a 3D Micro Game in Unity 5 with Jason Walters](https://www.facebook.com/events/1106063436086979/)
+- [Docker](https://www.facebook.com/events/596102643860285/)
 - [Making Your Games Make Themselves: L-Systems](https://www.facebook.com/events/828404947195002)
 - [Web App workshop, Learn how to make a very simple webapp with the New York Times API, taught by Tech@NYU 1PM-3PM](https://github.com/NYUHackDays/NYTimes-Python/)
 - [Intermediate Unity](https://github.com/NYUHackDays/Unity-II)
