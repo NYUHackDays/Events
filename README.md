@@ -1,6 +1,12 @@
 Fall 2015
 =====
 
+- [Introduction to ReactJS](https://www.facebook.com/events/1708690522693311/)
+- [Prepping for the Technical Interview](https://www.facebook.com/events/1022290617810598/)
+
+Fall 2015 Ideas
+=====
+
 - Code optimization - Strength reduction, Code Motion, etc.
   - Helping understand how compiler makes these optimizations, and then making them yourself.
 - Tricks to development
